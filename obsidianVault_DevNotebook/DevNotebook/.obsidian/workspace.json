@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "821e92b3319be303",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f42cd726fcffef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "941336a975d4b6f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C & C++/Documents/GCC - Multiple File C Program.pdf"
+              }
+            }
+          },
+          {
+            "id": "7d69de6b4cd54f65",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C & C++/Books/Beej's Guide - C Programming.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dec0fabbd8189762",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c14a8489a503cab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "432bab1ce4a37d3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "642790160185cdc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57b95cf6bbb2fe54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.50260543823242
+  },
+  "right": {
+    "id": "b52e1426f950ad7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f503eb2529bdba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f74423974f4ee52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C & C++/Books/Beej's Guide - C Programming.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dabe9b20ba201d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C & C++/Books/Beej's Guide - C Programming.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d769a6d379ca2ff8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7fe2e31eadb5f64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C & C++/Books/Beej's Guide - C Programming.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d69de6b4cd54f65",
+  "lastOpenFiles": [
+    "C & C++/Home - C & C++.md",
+    "C & C++/Documents/GCC - Multiple File C Program.pdf",
+    "templates/homeTemplate.md",
+    "Networking/Home - Networking.md",
+    "templates",
+    "Networking/Documents",
+    "C & C++/Documents",
+    "C & C++/Books",
+    "Networking/Books",
+    "Networking/Books/Beej's Guide - Network Programming.pdf",
+    "C & C++/Books/Beej's Guide - C Programming.pdf",
+    "Networking",
+    "untitled folder",
+    "Welcome.md"
+  ]
+}
